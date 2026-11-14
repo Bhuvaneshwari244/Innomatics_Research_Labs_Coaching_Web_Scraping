@@ -1,0 +1,306 @@
+OrderID,OrderDate,CustomerName,Region,Product,Category,Quantity,UnitPrice,Discount,TotalSales,ShippingCost,SalesRep
+1126,2024-03-17,Customer_43,South,Running Shoes,Sportswear,15,62.08,0.0,931.2,34.97,Sara
+1058,2024-12-11,Customer_29,North,Pen Pack,Stationery,7,5.14,0.2,,26.27,Sara
+1285,2024-12-12,Customer_35,East,Bookshelf,Furniture,9,157.88,0.0,1420.92,35.04,John
+1067,2024-09-05,Customer_50,North,Office Desk,Furniture,8,242.16,0.0,1937.28,26.27,Wei
+1115,2024-06-27,Customer_6,South,Pen Pack,Stationery,14,,0.15,58.55,24.66,Sara
+1284,2024-07-11,Customer_31,West,Yoga Mat,Sportswear,11,28.48,0.05,297.62,41.58,Wei
+1133,2024-09-06,Customer_41,East,Bookshelf,Furniture,18,136.35,0.0,2454.3,37.56,Fatima
+1260,2024-02-11,Customer_3,East,Running Shoes,Sportswear,2,68.23,0.2,109.17,5.88,Amit
+1038,2024-12-17,Customer_22,South,Water Bottle,Sportswear,9,12.32,,110.88,33.87,Priya
+1288,2024-12-12,Customer_8,North,Office Desk,Furniture,18,248.73,0.05,4253.28,63.83,Wei
+1082,2024-04-11,Customer_26,South,Notebook,,3,3.14,0.2,7.54,9.2,Fatima
+1247,2024-05-13,Customer_8,North,Stapler,Stationery,15,,0.1,103.01,33.21,John
+1275,2024-12-31,Customer_3,East,Laptop,Electronics,11,825.74,0.1,8174.83,29.07,Priya
+1109,2024-02-06,Customer_53,West,Office Desk,Furniture,2,235.37,0.0,470.74,5.98,Priya
+1279,2024-12-18,Customer_38,North,Notebook,Stationery,1,3.15,0.0,3.15,3.92,John
+1267,2024-03-22,Customer_27,South,Running Shoes,Sportswear,11,68.01,0.15,635.89,25.1,Priya
+1004,2024-09-12,Customer_14,,Bookshelf,Furniture,13,168.18,0.15,1858.39,34.41,Fatima
+1081,2024-06-08,Customer_8,North,Water Bottle,Sportswear,4,12.54,0.0,50.16,11.76,Priya
+1186,2024-09-06,Customer_44,North,Yoga Mat,Sportswear,17,26.67,0.0,,34.87,Wei
+1183,2024-10-17,Customer_47,East,Office Desk,Furniture,20,230.31,0.0,4606.2,37.78,John
+1092,2024-11-26,Customer_45,North,desk chair,Furniture,16,121.45,0.0,1943.2,27.72,Sara
+1091,2024-04-07,Customer_1,North,Stapler,Stationery,3,,0.05,21.89,8.16,Wei
+1215,2024-05-25,Customer_29,North,Desk Chair,Furniture,15,115.02,0.0,1725.3,34.11,Wei
+1211,2024-09-05,Customer_14,South,Headphones,Electronics,7,76.53,0.0,535.71,13.21,John
+1075,2024-11-25,Customer_2,North,Yoga Mat,Sportswear,14,23.35,0.05,310.56,27.36,Amit
+1298,2024-11-24,Customer_19,West,Bookshelf,Furniture,18,154.66,0.0,2783.88,65.3,Sara
+1174,2024-02-19,Customer_6,South,Smartphone,Electronics,12,551.47,0.1,5955.88,19.8,Sara
+1103,2024-07-13,Customer_15,North,Running Shoes,Sportswear,15,67.63,0.0,1014.45,54.76,Wei
+1066,2024-08-31,Customer_29,North,Stapler,Stationery,15,7.72,0.0,115.8,53.99,Priya
+1105,2024-05-15,Customer_41,East,Desk Chair,Furniture,3,112.71,0.0,338.13,8.64,Priya
+1089,2024-01-15,Customer_25,East,Yoga Mat,Sportswear,16,27.82,0.0,445.12,43.5,John
+1015,2024-09-27,Customer_11,North,Stapler,Stationery,20,8.05,0.0,161.0,76.45,John
+1157,2024-12-19,Customer_18,South,Notebook,Stationery,12,2.86,0.05,32.6,46.52,Amit
+1257,2024-02-10,Customer_58,South,Stapler,Stationery,9,7.59,0.1,61.48,19.68,John
+1161,2024-04-16,Customer_54,East,Smartphone,Electronics,19,476.99,0.2,7250.25,39.57,Wei
+1155,2024-08-20,Customer_9,,Stapler,Stationery,12,8.54,0.15,87.11,38.89,Sara
+1003,2024-07-24,Customer_52,East,Laptop,Electronics,9,687.41,0.1,5568.02,33.22,John
+1189,2024-04-27,Customer_35,East,Notebook,Stationery,17,3.12,0.15,,59.76,Fatima
+1056,2024-03-30,Customer_44,North,Notebook,Stationery,20,3.13,0.05,59.47,57.4,Fatima
+1171,2024-11-29,Customer_8,North,Water Bottle,Sportswear,18,12.96,0.0,233.28,46.35,Fatima
+1194,2024-02-09,Customer_22,South,desk chair,Furniture,17,127.0,0.1,1943.1,47.17,Priya
+1190,2024-01-22,Customer_26,South,Smartphone,Electronics,14,452.34,0.0,6332.76,51.17,Fatima
+1195,2024-11-26,Customer_23,West,Bookshelf,Furniture,5,143.86,0.0,719.3,10.7,Fatima
+1114,2024-08-14,Customer_34,East,Pen Pack,Stationery,9,4.73,0.1,,23.31,Fatima
+1102,2024-05-07,Customer_20,East,Running Shoes,Sportswear,4,62.37,0.05,237.01,12.06,Amit
+1213,2024-03-08,Customer_57,East,Bookshelf,Furniture,20,149.13,0.0,,39.04,
+1140,2024-11-23,Customer_38,North,Bookshelf,Furniture,14,160.89,0.05,2139.84,50.59,John
+1177,2024-12-02,Customer_14,South,Stapler,Stationery,16,7.65,,122.4,38.0,Priya
+1061,2024-11-08,Customer_16,South,laptop,,3,760.39,0.15,1938.99,8.82,Sara
+1233,2024-04-03,Customer_31,West,Water Bottle,Sportswear,5,10.99,0.2,,19.3,Fatima
+1019,2024-06-18,Customer_5,South,Desk Chair,Furniture,3,123.42,0.0,370.26,9.52,Amit
+1271,2024-07-06,Customer_9,West,Notebook,Stationery,13,2.97,0.05,,21.16,John
+1071,2024-07-13,Customer_55,South,Laptop,Electronics,16,676.11,0.0,10817.76,35.94,Wei
+1227,2024-03-14,Customer_16,South,Running Shoes,Sportswear,10,60.44,0.1,543.96,23.82,Fatima
+1240,2024-08-06,Customer_39,West,Pen Pack,Stationery,6,5.36,0.0,32.16,15.71,Fatima
+1173,2024-07-10,Customer_43,South,Bookshelf,Furniture,5,160.76,0.05,763.61,8.34,John
+1281,2024-03-16,Customer_50,North,Running Shoes,Sportswear,8,54.47,0.15,,14.2,Sara
+1139,2024-08-26,Customer_43,South,Office Desk,Furniture,10,267.35,0.0,2673.5,16.85,Amit
+1226,2024-02-26,Customer_30,North,Running Shoes,Sportswear,16,62.95,0.0,1007.2,49.28,Amit
+1245,2024-02-09,Customer_24,,Bookshelf,Furniture,19,140.16,0.0,,47.41,Sara
+1023,2024-04-07,Customer_16,South,Smartphone,Electronics,18,506.08,0.05,8653.97,35.26,Priya
+1249,2024-06-12,Customer_52,East,Smartphone,Electronics,12,538.69,0.1,5817.85,34.27,Fatima
+1270,2024-12-10,Customer_39,West,Pen Pack,Stationery,16,4.86,0.0,,57.89,Fatima
+1256,2024-06-04,Customer_34,East,Smartphone,Electronics,6,470.25,0.15,2398.28,12.38,Priya
+1151,2024-07-07,Customer_8,North,Stapler,Stationery,9,8.37,0.2,60.26,27.87,Sara
+1169,2024-05-20,Customer_5,,Headphones,Electronics,20,84.66,0.1,1523.88,65.61,Priya
+1273,2024-12-14,Customer_18,South,Stapler,Stationery,20,7.44,0.0,148.8,49.7,Wei
+1095,2024-04-08,Customer_15,,Office Desk,Furniture,11,232.47,0.1,2301.45,42.65,Amit
+1119,2024-11-16,Customer_40,North,Bookshelf,Furniture,15,163.5,0.0,2452.5,32.51,Sara
+1087,2024-08-26,Customer_50,North,Stapler,Stationery,14,8.85,0.1,111.51,30.39,Sara
+1293,2024-01-03,Customer_50,North,Yoga Mat,Sportswear,18,28.61,0.0,514.98,45.31,Priya
+1274,2024-03-14,Customer_36,North,Bookshelf,Furniture,7,157.59,0.05,1047.97,19.25,John
+1112,2024-05-08,Customer_21,North,Water Bottle,Sportswear,1,11.07,,,3.59,Wei
+1175,2024-12-09,Customer_36,North,Stapler,Stationery,4,8.02,0.2,25.66,12.65,John
+1085,2024-02-24,Customer_53,West,Notebook,Stationery,14,3.42,0.15,40.7,52.21,Sara
+1231,2024-02-23,Customer_43,South,Water Bottle,Sportswear,19,13.01,0.0,247.19,34.84,Fatima
+1025,2024-03-26,Customer_6,South,Laptop,Electronics,14,766.06,0.0,10724.84,51.26,Priya
+1250,2024-12-30,Customer_55,South,Office Desk,Furniture,6,274.61,0.1,1482.89,12.36,Priya
+1063,2024-04-22,Customer_50,North,Smartphone,Electronics,6,550.51,0.15,2807.6,16.77,Sara
+1239,2024-06-13,Customer_35,East,Headphones,,4,73.6,0.15,250.24,8.96,John
+1079,2024-05-02,Customer_40,North,Laptop,Electronics,5,763.79,0.0,,14.55,Priya
+1100,2024-04-04,Customer_29,North,Pen Pack,Stationery,2,4.82,0.2,7.71,5.39,John
+1051,2024-06-09,Customer_28,East,Running Shoes,Sportswear,14,63.09,0.1,794.93,25.05,John
+1127,2024-06-13,Customer_25,East,Stapler,Stationery,7,9.16,0.0,,20.51,Sara
+1255,2024-04-03,Customer_41,East,Stapler,Stationery,5,8.07,0.2,32.28,8.19,Wei
+1228,2024-12-06,Customer_27,South,Running Shoes,Sportswear,3,61.85,0.0,185.55,5.01,Priya
+1062,2024-09-10,Customer_45,North,Water Bottle,Sportswear,13,11.53,0.15,127.41,41.85,Sara
+1180,2024-05-19,Customer_2,North,Office Desk,Furniture,10,282.6,0.0,2826.0,15.15,Priya
+1188,2024-03-02,Customer_19,West,Office Desk,Furniture,1,256.09,0.05,243.29,1.94,John
+1070,2024-08-03,Customer_4,  SOUTH  ,Notebook,Stationery,13,3.38,0.1,39.55,50.25,Priya
+1037,2024-02-24,Customer_17,West,Headphones,Electronics,18,75.11,0.0,1351.98,54.22,Amit
+1041,2024-03-17,Customer_57,East,Smartphone,Electronics,18,454.5,0.0,8181.0,53.21,Fatima
+1148,2024-05-11,Customer_54,East,Office Desk,Furniture,16,285.46,0.0,4567.36,53.86,Priya
+1012,2024-01-01,Customer_50,North,Stapler,Stationery,20,7.85,0.0,157.0,35.59,
+1238,2024-05-16,Customer_60,North,Bookshelf,Furniture,3,162.27,0.0,486.81,7.73,Wei
+1244,2024-07-15,Customer_24,East,Yoga Mat,Sportswear,19,,0.0,431.3,60.76,John
+1182,2024-04-20,Customer_48,North,Smartphone,Electronics,13,502.48,0.0,6532.24,24.62,Wei
+1156,2024-03-20,Customer_27,South,Stapler,Stationery,14,8.51,0.2,95.31,38.13,Wei
+1142,2024-12-03,Customer_19,West,Water Bottle,Sportswear,13,11.62,0.1,135.95,47.61,Amit
+1099,2024-09-08,Customer_9,West,Water Bottle,Sportswear,4,13.42,0.1,48.31,8.84,Fatima
+1165,2024-02-02,Customer_8,North,Stapler,Stationery,16,8.1,0.0,129.6,44.53,Fatima
+1047,2024-06-28,Customer_13,South,Desk Chair,Furniture,10,132.62,0.2,1060.96,20.69,Sara
+1280,2024-01-27,Customer_37,West,Running Shoes,Sportswear,19,61.21,0.1,1046.69,58.38,Priya
+1116,2024-12-21,Customer_22,South,Headphones,Electronics,16,77.76,0.05,1181.95,56.54,Sara
+1129,2024-11-29,Customer_25,East,Notebook,Stationery,5,3.07,0.0,15.35,9.08,Fatima
+1265,2024-07-08,Customer_26,South,Bookshelf,Furniture,17,156.06,0.0,2653.02,35.77,Priya
+1300,2024-06-21,Customer_12,North,Water Bottle,Sportswear,10,,0.2,100.0,19.83,Amit
+1130,2024-08-13,Customer_22,South,Running Shoes,Sportswear,4,61.89,0.05,235.18,6.15,Amit
+1292,2024-01-27,Customer_41,East,Desk Chair,Furniture,4,,0.15,409.36,10.72,Priya
+1016,2024-12-31,Customer_45,North,Water Bottle,Sportswear,10,12.0,0.15,102.0,31.25,Priya
+1008,2024-10-10,Customer_34,East,Pen Pack,Stationery,1,5.35,0.0,5.35,3.2,John
+1266,2024-05-06,Customer_18,South,Smartphone,Electronics,5,462.1,0.0,2310.5,19.32,Sara
+1162,2024-01-02,Customer_51,West,Headphones,Electronics,9,89.17,0.0,802.53,35.72,Wei
+1209,2024-11-25,Customer_36,North,Office Desk,Furniture,11,275.82,0.15,2578.92,35.83,Sara
+1164,2024-01-09,Customer_38,North,Desk Chair,Furniture,6,115.96,0.0,695.76,20.13,John
+1200,2024-07-07,Customer_3,East,Pen Pack,Stationery,10,4.6,0.2,36.8,39.43,Amit
+1090,2024-06-23,Customer_52,East,Bookshelf,Furniture,9,168.01,0.15,1285.28,33.3,John
+1214,2024-03-25,Customer_50,North,Water Bottle,Sportswear,15,10.93,0.0,163.95,47.86,Wei
+1098,2024-03-05,Customer_46,South,Laptop,Electronics,9,683.53,0.0,6151.77,25.95,Wei
+1243,2024-12-13,Customer_10,North,Laptop,Electronics,15,681.52,0.0,10222.8,31.35,Wei
+1009,2024-11-24,Customer_49,South,Stapler,Stationery,11,7.42,0.05,77.54,20.85,John
+1029,2024-03-21,Customer_33,East,Pen Pack,Stationery,2,,0.0,11.4,7.26,Wei
+1028,2024-10-04,Customer_38,North,Laptop,Electronics,2,815.25,0.0,1630.5,3.25,Fatima
+1123,2024-09-04,Customer_18,South,Water Bottle,Sportswear,16,11.53,0.1,166.03,29.79,Sara
+1053,2024-12-09,Customer_48,North,Water Bottle,Sportswear,7,11.89,0.0,83.23,27.11,Fatima
+1269,2024-05-03,Customer_33,East,Notebook,Stationery,7,3.14,0.0,21.98,11.38,Sara
+1059,2024-02-13,Customer_11,North,Water Bottle,Sportswear,10,12.35,0.15,104.97,30.48,Fatima
+1149,2024-08-27,Customer_52,East,Bookshelf,Furniture,3,140.28,0.0,420.84,10.95,Amit
+1286,2024-04-25,Customer_36,North,Office Desk,Furniture,10,,0.15,2322.2,20.18,John
+1154,2024-01-20,Customer_9,West,Smartphone,Electronics,10,574.49,0.0,5744.9,17.43,Amit
+1282,2024-08-02,Customer_29,North,Laptop,Electronics,5,752.43,0.0,,12.63,John
+1032,2024-06-09,Customer_14,South,Office Desk,,8,241.6,0.0,,25.43,Fatima
+1002,2024-04-22,Customer_45,North,Yoga Mat,Sportswear,11,27.77,,244.38,18.04,Wei
+1241,2024-11-10,Customer_56,East,Water Bottle,Sportswear,14,11.62,0.2,130.14,54.18,John
+1014,2024-02-05,Customer_47,East,Smartphone,Electronics,18,545.73,0.0,9823.14,56.69,Sara
+1010,2024-05-14,Customer_47,East,Laptop,Electronics,17,817.87,0.1,12513.41,64.29,Fatima
+1283,2024-02-01,Customer_59,East,Running Shoes,Sportswear,5,61.78,0.1,278.01,11.56,Sara
+1096,2024-04-20,Customer_12,North,Water Bottle,Sportswear,16,11.63,0.1,167.47,63.06,Priya
+1035,2024-03-21,Customer_24,East,Desk Chair,Furniture,15,133.01,0.15,1695.88,33.84,John
+1097,2024-02-21,Customer_39,West,Stapler,Stationery,7,7.79,0.0,54.53,13.64,John
+1296,2024-01-19,Customer_27,South,Headphones,Electronics,13,87.76,0.0,1140.88,49.94,Priya
+1178,2024-05-22,Customer_24,East,Stapler,Stationery,19,,0.05,138.08,68.64,Amit
+1146,2024-07-05,Customer_3,East,Pen Pack,Stationery,5,4.61,0.0,23.05,11.58,Wei
+1229,2024-09-16,Customer_35,,Stapler,Stationery,18,7.24,0.2,,48.16,Wei
+1185,2024-04-20,Customer_27,South,Pen Pack,,17,4.64,0.05,74.94,30.21,John
+1046,2024-12-25,Customer_18,South,Desk Chair,Furniture,4,119.48,0.0,477.92,14.59,Priya
+1203,2024-08-18,Customer_10,North,Stapler,Stationery,4,8.82,,28.22,9.43,Amit
+1033,2024-02-07,Customer_30,North,Office Desk,Furniture,1,253.64,,228.28,3.99,John
+1078,2024-02-05,Customer_15,North,Bookshelf,Furniture,2,163.28,0.0,326.56,4.0,Fatima
+1223,2024-12-27,Customer_45,North,Pen Pack,Stationery,16,5.06,0.0,80.96,60.23,Priya
+1134,2024-04-26,Customer_59,,Yoga Mat,,3,25.21,0.0,75.63,10.2,John
+1145,2024-11-17,Customer_44,North,Yoga Mat,Sportswear,4,28.15,0.15,95.71,6.39,Priya
+1064,2024-03-03,Customer_36,North,Laptop,Electronics,15,,0.05,9975.0,47.53,Priya
+1083,2024-12-16,Customer_45,North,Smartphone,Electronics,20,,0.2,8811.04,79.19,John
+1224,2024-03-17,Customer_17,West,Laptop,Electronics,18,851.29,0.1,13790.9,50.75,Priya
+1217,2024-08-02,Customer_33,East,Notebook,Stationery,6,3.31,,15.89,18.07,Wei
+1264,2024-03-14,Customer_22,,Desk Chair,Furniture,11,133.84,0.0,1472.24,36.69,Wei
+1042,2024-01-22,Customer_28,East,headphones,Electronics,10,79.29,0.2,,39.3,Priya
+1294,2024-04-12,Customer_31,West,Pen Pack,,10,4.9,0.15,41.65,16.48,Fatima
+1110,2024-08-12,Customer_59,East,Running Shoes,Sportswear,4,,0.0,244.12,13.0,John
+1172,2024-08-20,Customer_27,South,Desk Chair,Furniture,13,120.48,0.0,1566.24,29.66,John
+1290,2024-04-13,Customer_31,West,Water Bottle,Sportswear,18,11.61,0.1,188.08,58.33,Priya
+1122,2024-11-27,Customer_30,North,Smartphone,Electronics,5,512.3,0.15,2177.28,11.15,Amit
+1052,2024-01-23,Customer_13,South,Running Shoes,Sportswear,14,54.03,0.2,605.14,39.85,John
+1057,2024-04-17,Customer_20,East,Laptop,Electronics,14,822.33,0.1,10361.36,43.91,John
+1235,2024-08-30,Customer_26,South,Stapler,Stationery,9,7.27,0.15,55.62,17.8,Wei
+1159,2024-03-03,Customer_18,South,Notebook,Stationery,15,2.77,0.0,41.55,46.56,Priya
+1086,2024-08-10,Customer_46,South,Pen Pack,Stationery,6,5.42,0.15,27.64,13.05,Priya
+1121,2024-06-08,Customer_46,,Desk Chair,,18,108.41,0.05,1853.81,31.19,Priya
+1289,2024-05-27,Customer_19,West,Headphones,Electronics,3,78.93,0.05,,9.42,
+1291,2024-10-27,Customer_7,North,Headphones,Electronics,8,76.85,0.15,522.58,30.1,Wei
+1214,2024-03-25,Customer_50,North,Water Bottle,Sportswear,15,10.93,0.0,163.95,47.86,Wei
+1221,2024-09-14,Customer_4,South,Notebook,Stationery,12,2.88,0.0,34.56,29.25,Sara
+1295,2024-04-28,Customer_42,East,Smartphone,Electronics,18,542.34,0.2,7809.7,69.15,Wei
+1088,2024-05-22,Customer_54,East,Desk Chair,Furniture,15,115.32,0.05,1643.31,43.87,Amit
+1166,2024-04-23,Customer_29,,Smartphone,Electronics,20,455.42,0.2,7286.72,75.44,Wei
+1107,2024-08-20,Customer_19,West,Water Bottle,Sportswear,3,12.86,0.0,38.58,10.41,Fatima
+1106,2024-08-18,Customer_1,North,Headphones,Electronics,20,81.4,0.0,1628.0,41.57,Sara
+1232,2024-11-25,Customer_35,East,Bookshelf,Furniture,6,166.14,0.15,847.31,15.97,John
+1050,2024-04-01,Customer_8,North,Laptop,Electronics,19,,0.0,16254.12,30.32,John
+1208,2024-06-07,Customer_10,,Yoga Mat,,13,23.31,0.15,257.58,49.99,John
+1006,2024-04-22,Customer_26,South,Running Shoes,,5,61.64,0.0,308.2,16.95,John
+1018,2024-10-28,Customer_36,North,Running Shoes,Sportswear,8,54.11,0.15,367.95,24.62,Priya
+1236,2024-12-01,Customer_56,East,Bookshelf,Furniture,11,145.25,0.2,1278.2,26.62,Amit
+1117,2024-02-15,Customer_3,East,Stapler,Stationery,11,7.7,0.0,84.7,43.18,Sara
+1254,2024-02-07,Customer_21,North,Headphones,Electronics,15,81.32,0.1,1097.82,35.42,Fatima
+1107,2024-08-20,Customer_19,West,Water Bottle,Sportswear,3,12.86,0.0,38.58,10.41,Fatima
+1163,2024-02-26,Customer_17,West,Stapler,Stationery,1,7.46,0.0,7.46,3.47,Priya
+1135,2024-08-15,Customer_56,East,Water Bottle,Sportswear,6,12.88,0.0,77.28,9.69,Amit
+1237,2024-07-16,Customer_48,North,Notebook,Stationery,11,3.43,0.05,35.84,35.53,
+1191,2024-07-26,Customer_28,East,Running Shoes,Sportswear,14,58.34,0.05,775.92,21.73,Wei
+1065,2024-08-14,Customer_39,West,Stapler,Stationery,20,8.83,0.1,158.94,51.34,John
+1027,2024-10-11,Customer_28,East,Office Desk,Furniture,16,234.67,0.0,3754.72,32.71,Fatima
+1207,2024-12-02,Customer_19,West,Notebook,Stationery,20,3.35,0.0,67.0,34.08,John
+1170,2024-05-30,Customer_39,West,Notebook,Stationery,15,3.08,0.05,43.89,26.22,Wei
+1181,2024-07-24,Customer_37,West,Headphones,Electronics,3,74.84,0.15,190.84,11.79,Fatima
+1101,2024-02-07,Customer_26,South,Smartphone,Electronics,19,528.68,0.0,10044.92,35.71,Sara
+1198,2024-06-10,Customer_21,North,Running Shoes,Sportswear,5,60.6,0.05,287.85,13.03,Fatima
+1136,2024-07-10,Customer_19,West,Laptop,Electronics,14,702.29,0.1,8848.85,35.42,John
+1287,2024-09-02,Customer_32,North,Water Bottle,Sportswear,12,12.48,0.2,119.81,39.65,
+1263,2024-12-18,Customer_30,North,Office Desk,Furniture,2,234.88,0.05,446.27,5.42,
+1199,2024-10-29,Customer_51,West,Office Desk,Furniture,2,247.0,0.0,494.0,4.55,John
+1118,2024-01-01,Customer_56,East,Notebook,Stationery,18,3.05,0.0,54.9,35.44,Wei
+1167,2024-08-22,Customer_34,East,Yoga Mat,Sportswear,1,22.88,0.05,21.74,3.62,John
+1218,2024-09-03,Customer_4,South,Office Desk,Furniture,12,259.66,0.0,3115.92,39.34,Fatima
+1137,2024-03-28,Customer_51,,Yoga Mat,Sportswear,6,22.99,0.2,110.35,14.74,Priya
+1030,2024-12-11,Customer_39,West,Smartphone,Electronics,8,500.47,0.1,3603.38,16.92,
+1080,2024-05-11,Customer_30,North,Desk Chair,Furniture,12,113.03,0.1,1220.72,46.91,Fatima
+1205,2024-11-08,Customer_34,East,Pen Pack,Stationery,6,4.95,0.0,29.7,14.81,Wei
+1141,2024-02-24,Customer_25,East,Desk Chair,Furniture,8,119.44,0.0,955.52,23.5,Sara
+1158,2024-07-07,Customer_7,North,Bookshelf,,18,168.81,0.15,2582.79,43.14,
+1132,2024-02-11,Customer_26,South,Water Bottle,Sportswear,11,13.36,0.2,117.57,31.17,Fatima
+1040,2024-08-14,Customer_17,West,Yoga Mat,Sportswear,18,26.91,0.1,,27.44,Priya
+1246,2024-02-28,Customer_18,South,Yoga Mat,Sportswear,1,27.1,0.05,25.75,2.79,Priya
+1206,2024-01-27,Customer_44,,Bookshelf,Furniture,11,137.47,0.0,1512.17,31.84,Wei
+1216,2024-07-07,Customer_58,  SOUTH  ,Pen Pack,Stationery,19,5.73,0.05,103.43,65.05,Priya
+1278,2024-08-31,Customer_37,West,Water Bottle,Sportswear,1,11.91,,10.12,1.77,John
+1055,2024-07-25,Customer_27,South,Yoga Mat,Sportswear,10,25.97,0.0,259.7,25.51,John
+1201,2024-09-16,Customer_40,North,Smartphone,Electronics,13,507.84,0.1,5941.73,50.51,Wei
+1044,2024-03-20,Customer_40,North,Notebook,Stationery,8,3.35,0.2,21.44,28.22,Fatima
+1259,2024-12-03,Customer_10,North,Running Shoes,Sportswear,20,64.81,0.1,,46.88,Priya
+1049,2024-09-17,Customer_23,,Office Desk,Furniture,13,267.47,0.2,2781.69,36.93,Fatima
+1036,2024-12-07,Customer_34,  EAST  ,Yoga Mat,Sportswear,18,24.37,0.15,372.86,31.66,Amit
+1060,2024-12-10,Customer_53,West,Smartphone,Electronics,10,478.08,0.0,4780.8,18.68,Priya
+1144,2024-04-07,Customer_15,North,Bookshelf,Furniture,20,144.4,0.2,2310.4,66.05,Fatima
+1054,2024-12-05,Customer_40,North,Bookshelf,Furniture,4,161.99,0.0,647.96,11.07,John
+1021,2024-02-19,Customer_13,South,Notebook,Stationery,14,2.97,0.05,39.5,37.35,Amit
+1125,2024-05-16,Customer_22,South,Notebook,Stationery,1,2.91,0.0,2.91,3.59,Wei
+1143,2024-09-11,Customer_4,South,Water Bottle,Sportswear,10,13.13,0.0,131.3,30.18,Wei
+1111,2024-09-09,Customer_33,East,Office Desk,Furniture,15,230.03,0.0,3450.45,55.85,Wei
+1242,2024-07-26,Customer_43,  SOUTH  ,Smartphone,Electronics,12,514.14,0.15,,38.38,Fatima
+1077,2024-05-09,Customer_49,South,Office Desk,Furniture,3,254.39,0.15,648.69,8.55,Sara
+1277,2024-10-30,Customer_48,North,running shoes,Sportswear,11,61.61,0.1,609.94,31.14,John
+1268,2024-08-27,Customer_32,North,Headphones,Electronics,16,89.58,0.05,1361.62,24.93,Wei
+1108,2024-04-11,Customer_38,North,Yoga Mat,Sportswear,14,23.22,0.0,325.08,43.67,Fatima
+1094,2024-10-08,Customer_23,West,Stapler,Stationery,11,7.9,0.05,82.56,23.95,Sara
+1013,2024-05-02,Customer_57,East,Bookshelf,Furniture,2,144.03,0.1,259.25,7.73,John
+1017,2024-08-19,Customer_58,  SOUTH  ,Pen Pack,Stationery,4,4.81,0.0,19.24,9.38,Wei
+1048,2024-07-23,Customer_43,South,Laptop,Electronics,11,727.24,0.0,7999.64,43.09,Priya
+1187,2024-04-14,Customer_4,South,Running Shoes,Sportswear,10,68.18,0.2,545.44,18.43,Amit
+1204,2024-11-26,Customer_6,South,Water Bottle,Sportswear,6,10.92,0.15,55.69,15.57,Wei
+1262,2024-06-03,Customer_19,West,Stapler,Stationery,16,7.69,0.2,98.43,51.4,Fatima
+1120,2024-08-12,Customer_60,North,Headphones,Electronics,16,74.43,0.15,1012.25,48.35,John
+1022,2024-11-30,Customer_4,South,Water Bottle,Sportswear,4,10.98,0.15,37.33,9.39,Fatima
+1147,2024-03-08,Customer_12,  NORTH  ,Notebook,Stationery,18,3.36,0.0,60.48,50.89,Priya
+1179,2024-11-25,Customer_40,North,running shoes,Sportswear,18,54.39,0.15,832.17,64.33,Fatima
+1084,2024-08-07,Customer_23,West,Laptop,Electronics,12,687.93,0.15,7016.89,28.24,Wei
+1131,2024-03-20,Customer_27,South,Headphones,Electronics,3,81.39,,244.17,7.04,Fatima
+1160,2024-06-19,Customer_2,North,Running Shoes,,8,68.83,0.2,440.51,23.29,Amit
+1128,2024-01-23,Customer_55,,Desk Chair,Furniture,11,130.34,0.15,1218.68,41.62,Sara
+1210,2024-02-17,Customer_44,  NORTH  ,Water Bottle,Sportswear,14,12.33,0.0,172.62,33.69,Wei
+1222,2024-12-31,Customer_21,North,Laptop,Electronics,11,823.38,0.0,9057.18,17.55,Amit
+1074,2024-03-06,Customer_11,North,Water Bottle,Sportswear,20,12.4,0.05,235.6,59.59,Sara
+1230,2024-05-09,Customer_25,East,yoga mat,Sportswear,1,24.73,0.0,24.73,2.36,John
+1299,2024-02-27,Customer_18,South,Pen Pack,,11,4.7,0.05,49.12,34.33,Priya
+1031,2024-02-11,Customer_3,East,Running Shoes,Sportswear,14,63.86,,804.64,39.3,Wei
+1124,2024-09-17,Customer_59,East,Desk Chair,Furniture,5,133.92,0.0,669.6,17.16,Wei
+1034,2024-09-16,Customer_35,East,Smartphone,Electronics,9,466.56,0.0,4199.04,33.32,Priya
+1005,2024-10-14,Customer_9,West,Office Desk,Furniture,18,241.42,0.1,3911.0,46.28,Priya
+1020,2024-10-19,Customer_35,East,Desk Chair,Furniture,19,122.18,0.2,1857.14,50.97,Priya
+1220,2024-02-16,Customer_10,North,Stapler,Stationery,8,8.83,0.0,70.64,30.61,Sara
+1124,2024-09-17,Customer_59,East,Desk Chair,Furniture,5,133.92,0.0,669.6,17.16,Wei
+1150,2024-10-12,Customer_44,North,Water Bottle,Sportswear,12,11.07,0.05,126.2,18.42,Sara
+1225,2024-05-01,Customer_50,North,Smartphone,Electronics,10,465.23,0.0,4652.3,25.5,John
+1248,2024-03-10,Customer_13,South,Pen Pack,Stationery,3,5.07,0.15,12.93,7.84,Amit
+1272,2024-10-10,Customer_13,South,Stapler,Stationery,10,,0.1,66.15,26.26,John
+1152,2024-04-29,Customer_7,North,Bookshelf,,16,135.94,0.1,1957.54,37.12,Fatima
+1234,2024-01-23,Customer_19,West,Laptop,Electronics,7,841.09,0.0,5887.63,26.83,
+1011,2024-09-16,Customer_20,East,Yoga Mat,Sportswear,20,23.74,0.0,474.8,68.13,Fatima
+1072,2024-10-02,Customer_55,,Notebook,Stationery,18,3.3,0.0,59.4,48.97,Sara
+1253,2024-09-26,Customer_47,East,Water Bottle,Sportswear,14,13.11,0.2,146.83,41.12,Sara
+1093,2024-05-04,Customer_26,  SOUTH  ,Desk Chair,Furniture,10,127.92,0.0,1279.2,26.83,Fatima
+1193,2024-09-25,Customer_38,North,notebook,Stationery,3,3.0,0.0,9.0,10.09,Sara
+1258,2024-09-30,Customer_20,East,Yoga Mat,,3,25.64,0.0,76.92,8.94,Wei
+1297,2024-01-05,Customer_57,East,Office Desk,Furniture,10,260.5,,2605.0,38.21,Amit
+1196,2024-12-01,Customer_39,  WEST  ,Headphones,Electronics,3,75.54,0.2,181.3,9.21,Priya
+1138,2024-10-25,Customer_16,South,Yoga Mat,Sportswear,5,23.95,0.15,101.79,10.67,Sara
+1261,2024-08-01,Customer_14,South,Yoga Mat,Sportswear,20,26.49,0.05,503.31,74.45,Wei
+1039,2024-08-04,Customer_6,South,Laptop,Electronics,9,683.27,0.0,6149.43,30.85,Fatima
+1202,2024-08-18,Customer_58,South,Water Bottle,Sportswear,19,12.76,0.0,242.44,57.24,Amit
+1190,2024-01-22,Customer_26,South,Smartphone,Electronics,14,452.34,0.0,6332.76,51.17,Fatima
+1252,2024-03-07,Customer_52,East,Pen Pack,Stationery,20,5.61,0.0,112.2,45.46,Wei
+1113,2024-12-10,Customer_38,North,Running Shoes,Sportswear,9,62.64,0.2,,30.52,Amit
+1184,2024-02-11,Customer_4,South,Running Shoes,Sportswear,9,60.65,0.05,518.56,24.43,Fatima
+1153,2024-02-02,Customer_15,North,Running Shoes,Sportswear,15,67.64,0.0,1014.6,46.85,Fatima
+1192,2024-08-23,Customer_11,  NORTH  ,Bookshelf,Furniture,12,138.3,0.2,,21.18,Wei
+1045,2024-06-19,Customer_2,,Notebook,Stationery,14,3.3,0.2,36.96,46.73,Priya
+1276,2024-03-12,Customer_58,South,running shoes,Sportswear,11,67.97,0.0,,20.97,Wei
+1007,2024-03-22,Customer_10,North,Smartphone,Electronics,14,524.55,0.05,6976.51,34.36,Fatima
+1251,2024-05-01,Customer_51,West,Desk Chair,Furniture,16,,0.1,1566.58,46.89,Priya
+1076,2024-04-18,Customer_25,East,Office Desk,Furniture,15,245.43,0.2,2945.16,55.49,John
+1001,2024-09-30,Customer_41,East,Running Shoes,Sportswear,8,56.45,0.05,429.02,17.4,Priya
+1069,2024-04-19,Customer_10,North,water bottle,Sportswear,3,12.04,0.0,,8.57,Fatima
+1168,2024-09-08,Customer_44,,Notebook,Stationery,15,2.76,0.0,41.4,34.58,Amit
+1219,2024-05-25,Customer_55,,Stapler,Stationery,3,8.73,0.0,26.19,7.87,Amit
+1043,2024-04-17,Customer_58,South,Laptop,Electronics,8,800.05,0.0,6400.4,27.6,John
+1073,2024-01-15,Customer_28,East,Office Desk,Furniture,13,246.01,0.15,2718.41,45.44,Sara
+1024,2024-08-14,Customer_16,South,Pen Pack,Stationery,18,4.62,,70.69,71.97,Amit
+1186,2024-09-06,Customer_44,North,Yoga Mat,Sportswear,17,26.67,0.0,,34.87,Wei
+1104,2024-11-13,Customer_20,East,Notebook,Stationery,2,3.16,0.15,5.37,3.5,Wei
+1212,2024-09-16,Customer_55,South,Office Desk,Furniture,18,277.19,0.1,4490.48,28.7,Amit
+1068,2024-06-12,Customer_18,South,Desk Chair,Furniture,18,110.42,0.0,1987.56,37.41,
+1026,2024-01-02,Customer_11,North,Laptop,Electronics,13,724.73,0.2,7537.19,45.02,Sara
+1197,2024-10-23,Customer_49,,Pen Pack,Stationery,15,5.35,0.1,72.23,46.61,Wei
+1176,2024-01-27,Customer_56,East,Notebook,Stationery,10,3.15,0.0,31.5,17.59,Fatima
